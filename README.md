@@ -4,6 +4,9 @@ A lightweight, native-feeling macOS menu bar application that displays your Publ
 
 Built with Python and `rumps`, it is designed to sit quietly in your system status bar, providing network information at a glance.
 
+<img width="576" height="293" alt="myip-macos-screenshot" src="https://github.com/user-attachments/assets/6a769653-67f1-482f-8a5d-4deadd9153fd" />
+
+
 ## Features
 
 - **🌐 Public IP:** Real-time display of your external IP address directly in the menu bar.

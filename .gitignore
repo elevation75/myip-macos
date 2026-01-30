@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.env
+*.venv
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build and Dist
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# User specific preferences (LaunchAgent path)
+com.user.myip.plist
